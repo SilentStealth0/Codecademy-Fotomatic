@@ -9,6 +9,12 @@ header{
   height: 85px;
 }
 
+header .logo{
+  color: #4a4a4a;
+  font-size: 1.5rem;
+  font-family: Roboto-Mono-Regular, sans-serif;
+}
+
 .main-content {
   position: relative;
   top: 5.3125rem; /* To offset for fixed header. */
