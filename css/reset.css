@@ -1,5 +1,14 @@
+
+
 header .content{
   height: 85px;
   color: #4a4a4a;
   padding: 0 30px;
+}
+
+nav li{
+  display: inline;
+  font-size: 1rem;
+
+  text-decoration: none;
 }
