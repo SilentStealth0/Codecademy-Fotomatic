@@ -5,6 +5,9 @@ html {
   font-size: 16px;
 }
 
+header{
+  height: 85px;
+}
 
 .main-content {
   position: relative;
