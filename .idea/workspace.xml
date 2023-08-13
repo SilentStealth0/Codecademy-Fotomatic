@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb54cf05-87ec-473a-be44-24dd1046553f" name="Changes" comment="Added viewport">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fb54cf05-87ec-473a-be44-24dd1046553f" name="Changes" comment="Started setup of nav li">
       <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
       <updated>1690428887904</updated>
       <workItem from="1690428890144" duration="1544000" />
       <workItem from="1691915926210" duration="217000" />
-      <workItem from="1691916770598" duration="2118000" />
+      <workItem from="1691916770598" duration="2463000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted unnecessary files">
       <created>1690429071516</created>
@@ -79,7 +78,23 @@
       <option name="project" value="LOCAL" />
       <updated>1691916136668</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Deleted reset. Set header .content">
+      <option name="closed" value="true" />
+      <created>1691919175337</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691919175337</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Started setup of nav li">
+      <option name="closed" value="true" />
+      <created>1691919221698</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691919221698</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +116,8 @@
     <MESSAGE value="Added broken files" />
     <MESSAGE value="fixed comment" />
     <MESSAGE value="Added viewport" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added viewport" />
+    <MESSAGE value="Deleted reset. Set header .content" />
+    <MESSAGE value="Started setup of nav li" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started setup of nav li" />
   </component>
 </project>
