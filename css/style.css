@@ -24,6 +24,7 @@ header nav{
 .main-content {
   position: relative;
   top: 5.3125rem; /* To offset for fixed header. */
+
 }
 
 .center {
@@ -128,11 +129,15 @@ header .mobile {
 
 /* Sign Up Section */
 
+
+
 #sign-up-section {
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
+  background-image: url("../images/banner-landingpage.jpg");
+  background-size: cover;
 }
 
 #sign-up-cta {
