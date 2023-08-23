@@ -140,6 +140,7 @@ header .mobile {
   height: 43.5rem;
   background-image: url("../images/banner-landingpage.jpg");
   background-size: cover;
+  background-position: bottom;
 }
 
 #sign-up-cta {
