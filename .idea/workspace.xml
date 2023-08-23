@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb54cf05-87ec-473a-be44-24dd1046553f" name="Changes" comment="Made text white">
+    <list default="true" id="fb54cf05-87ec-473a-be44-24dd1046553f" name="Changes" comment="Positioned img to bottom">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
       <workItem from="1691916770598" duration="5168000" />
       <workItem from="1692241847135" duration="5308000" />
       <workItem from="1692676589018" duration="3477000" />
-      <workItem from="1692755857873" duration="59000" />
+      <workItem from="1692755857873" duration="2777000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted unnecessary files">
       <created>1690429071516</created>
@@ -177,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692755901221</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Positioned img to bottom">
+      <option name="closed" value="true" />
+      <created>1692755955181</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1692755955181</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +219,7 @@
     <MESSAGE value="Added classes" />
     <MESSAGE value="Fixed header" />
     <MESSAGE value="Made text white" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made text white" />
+    <MESSAGE value="Positioned img to bottom" />
+    <option name="LAST_COMMIT_MESSAGE" value="Positioned img to bottom" />
   </component>
 </project>
